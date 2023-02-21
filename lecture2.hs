@@ -1,5 +1,6 @@
 -- Lecture 2 : More basic features
-Module Main where 
+Module Main where
+    
 
 -- the function has type: integer to integer 
 -- or num n => n -> n 
